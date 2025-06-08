@@ -1,6 +1,6 @@
 # 🧾 @gayatritakawale/resume
 
-> A command-line version of my developer resume — just run and read in your terminal!
+> A command-line version of my resume — just run and read in your terminal!
 
 ---
 
