@@ -1,0 +1,24 @@
+{
+  "name": "@gayatritakawale/resume",
+  "version": "1.0.1",
+  "description": "Gayatri Takawale's Resume",
+  "bin": {
+    "gayatritakawale": "./index.js"
+  },
+  "exports": {
+    ".": "./index.js"
+  },
+  "type": "module",
+  "author": "Gayatri Takawale",
+  "license": "MIT",
+  "keywords": [
+    "resume",
+    "cli",
+    "npx",
+    "gayatritakawale",
+    "developer"
+  ],
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}
